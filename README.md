@@ -1,5 +1,6 @@
 Project shorthand
->I'm Amirreza Zadehali. in simple definition my project wanna to be test and try work with blockchain on solana blockchain. (**it's like test project**)
+>I'm Amirreza Zadehali. in simple definition: 
+my project wanna to be test and try work with blockchain on solana blockchain. (**it's like test project**)
 
 
 # App name : solanaTodo
